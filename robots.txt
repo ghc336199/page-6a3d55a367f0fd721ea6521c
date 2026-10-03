@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-cb8df8a9bc.ruiliyimei.cn/sitemap.xml
